@@ -49,7 +49,7 @@ We are committed to maintaining a welcoming and inclusive environment for all co
 2. **No Harassment**: Harassment, bullying, or discriminatory behavior will not be tolerated.
 3. **Constructive Feedback**: Provide feedback that is constructive, kind, and helpful.
 4. **Focus on Collaboration**: Work together to achieve the project’s mission, valuing each contributor’s effort and expertise.
-5. **Report Misconduct**: If you witness or experience inappropriate behavior, please report it to [contact@domesticviolenceaid.com](mailto:contact@domesticviolenceaid.com).
+5. **Report Misconduct**: If you witness or experience inappropriate behavior, please report it immediately.
 
 For detailed guidelines, refer to our [Code of Conduct](CODE_OF_CONDUCT.md).
 

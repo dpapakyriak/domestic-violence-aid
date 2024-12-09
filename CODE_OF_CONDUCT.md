@@ -42,7 +42,7 @@ This Code of Conduct applies to all spaces managed by the Domestic Violence Aid 
 If you experience or witness behavior that violates this Code of Conduct, please report it immediately. We take all reports seriously and will address them promptly and confidentially.
 
 ### How to Report:
-- **GitHub Issue**: [Open a private issue here](https://github.com/your-repo-link/issues)
+- **GitHub Issue**: [Open a private issue here](https://github.com/https://github.com/dpapakyriak/domestic-violence-aid.git/issues)
 
 When reporting, please include:
 - A detailed description of the incident.
