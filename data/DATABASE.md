@@ -49,7 +49,7 @@
 ---
 
 ## Burkina Faso
-![Burkina Faso Flag](./flags/Burkina Faso.png)
+![Burkina Faso Flag](./flags/Burkina%20Faso.png)
 
 1. **Voix Des Femmes**
    - [More Info](https://www.voixdefemmes.bf/)
@@ -85,7 +85,7 @@
 ---
 
 ## Cape Verde
-![Cape Verde Flag](./flags/Cape Verde.png)
+![Cape Verde Flag](./flags/Cape%20Verde.png)
 
 1. **VerdeFam Cabo Verde**
    - [More Info](http://www.verdefam.cv/index.php?option=com_content&view=frontpage&Itemid=54)
@@ -97,7 +97,7 @@
 ---
 
 ## Central African Republic
-![Central African Republic Flag](./flags/Central African Republic.png)
+![Central African Republic Flag](./flags/Central%20African%20Republic.png)
 
 1. **The Association of Female Lawyers (AFJC)**
    - [More Info](https://www.peaceinsight.org/en/organisations/afjc/?location=central-african-republic&theme)
@@ -127,7 +127,7 @@
 ---
 
 ## Dem. Rep of Congo
-![Dem. Rep of Congo Flag](./flags/Dem. Rep of Congo.png)
+![Dem. Rep of Congo Flag](./flags/Dem.%20Rep%20of%20Congo.png)
 
 1. **Synergie Des Femmes (Woman's Synergy)**
    - [More Info](https://www.facebook.com/synergiedesfemmes/)
@@ -139,7 +139,7 @@
 ---
 
 ## Congo (Republic of)
-![Congo (Republic of) Flag](./flags/Congo (Republic of).png)
+![Congo (Republic of) Flag](./flags/Congo%20(Republic%20of).png)
 
 1. **Association AZUR Development (Brazzaville)**
    - [More Info](https://www.facebook.com/Azurdev/)
@@ -172,7 +172,7 @@
 ---
 
 ## Equatorial Guinea
-![Equatorial Guinea Flag](./flags/Equatorial Guinea.png)
+![Equatorial Guinea Flag](./flags/Equatorial%20Guinea.png)
 
 1. **Ministry of Social Affairs and Gender Equality**
    - [More Info](https://minasig.gob.gq/violencia-de-genero/)
@@ -265,7 +265,7 @@
 ---
 
 ## Ivory Coast
-![Ivory Coast Flag](./flags/Ivory Coast.png)
+![Ivory Coast Flag](./flags/Ivory%20Coast.png)
 
 1. **24 Hours Gender Based Violence Helpline**
    - [More Info](http://www.famille.gouv.ci/public/procedures/violence-basee-sur-le-genre)
@@ -457,7 +457,7 @@
 ---
 
 ## Sao Tome and Principe
-![Sao Tome and Principe Flag](./flags/Sao Tome and Principe.png)
+![Sao Tome and Principe Flag](./flags/Sao%20Tome%20and%20Principe.png)
 
 1. **Sao Tomean Association of Women Lawyers**
    - [More Info](https://www.facebook.com/Associa%C3%A7%C3%A3o-S%C3%A3o-tomense-de-Mulheres-Juristas-286067801423961/)
@@ -493,7 +493,7 @@
 ---
 
 ## Sierra Leone
-![Sierra Leone Flag](./flags/Sierra Leone.png)
+![Sierra Leone Flag](./flags/Sierra%20Leone.png)
 
 1. **Family Support Unit (Police Gender based violence contact)**
    - [More Info](https://www.facebook.com/www.fsu.slp.org/)
@@ -511,7 +511,7 @@
 ---
 
 ## South Africa
-![South Africa Flag](./flags/South Africa.png)
+![South Africa Flag](./flags/South%20Africa.png)
 
 1. **24 Hours Tears Helpline**
    - [More Info](https://tears.co.za/)
@@ -523,7 +523,7 @@
 ---
 
 ## South Sudan
-![South Sudan Flag](./flags/South Sudan.png)
+![South Sudan Flag](./flags/South%20Sudan.png)
 
 1. **South Sudan Women's Empowerment Network**
    - [More Info](https://sswen.org/policy-politics/)
@@ -676,7 +676,7 @@
 ---
 
 ## East Timor
-![East Timor Flag](./flags/East Timor.png)
+![East Timor Flag](./flags/East%20Timor.png)
 
 1. **Fokupers Helpline**
    - [More Info](https://www.facebook.com/fokupers/)
@@ -685,7 +685,7 @@
 ---
 
 ## Hong Kong
-![Hong Kong Flag](./flags/Hong Kong.png)
+![Hong Kong Flag](./flags/Hong%20Kong.png)
 
 1. **HKFWC's Women's Helpline**
    - [More Info](https://womencentre.org.hk/Zh/Services/counselling/womenhelpline/?fbclid=IwAR3_hc_sn44qR--hcf8XG6pIEOkRxtPQemjg7_mDh5sp5bNrPbVza2kprvc)
@@ -807,7 +807,7 @@
 ---
 
 ## Lao People’s Democratic Republic
-![Lao People’s Democratic Republic Flag](./flags/Lao People’s Democratic Republic.png)
+![Lao People’s Democratic Republic Flag](./flags/Lao%20People’s%20Democratic%20Republic.png)
 
 1. **Lao Women's Union**
    - [More Info](https://www.laowomenunion.org.la/)
@@ -939,7 +939,7 @@
 ---
 
 ## Saudi Arabia
-![Saudi Arabia Flag](./flags/Saudi Arabia.png)
+![Saudi Arabia Flag](./flags/Saudi%20Arabia.png)
 
 1. **Violence Against Women 24 Hour Helpline**
    - [More Info](https://hrsd.gov.sa/en/%D8%A7%D9%86%D9%81%D9%88%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D9%83/family-violence-reporting-center-1919)
@@ -960,7 +960,7 @@
 ---
 
 ## South Korea
-![South Korea Flag](./flags/South Korea.png)
+![South Korea Flag](./flags/South%20Korea.png)
 
 1. **Korean Women's Hotline**
    - [More Info](https://hotline.or.kr/information)
@@ -969,7 +969,7 @@
 ---
 
 ## Sri Lanka
-![Sri Lanka Flag](./flags/Sri Lanka.png)
+![Sri Lanka Flag](./flags/Sri%20Lanka.png)
 
 1. **Women In Need (WIN) HOTLINE**
    - [More Info](https://www.winsl.net/)
@@ -1053,7 +1053,7 @@
 ---
 
 ## United Arab Emirates
-![United Arab Emirates Flag](./flags/United Arab Emirates.png)
+![United Arab Emirates Flag](./flags/United%20Arab%20Emirates.png)
 
 1. **Dubai Foundation for Women and Children Hotline**
    - [More Info](https://www.dfwac.ae/care-and-rehabilitation)
@@ -1095,7 +1095,7 @@
 ---
 
 ## Antigua and Barbuda
-![Antigua and Barbuda Flag](./flags/Antigua and Barbuda.png)
+![Antigua and Barbuda Flag](./flags/Antigua%20and%20Barbuda.png)
 
 1. **24 Hour Crisis Hotline**
    - [More Info](https://genderaffairs.gov.ag/support-and-referral-centre/)
@@ -1238,7 +1238,7 @@
 ---
 
 ## Dominican Republic
-![Dominican Republic Flag](./flags/Dominican Republic.png)
+![Dominican Republic Flag](./flags/Dominican%20Republic.png)
 
 1. **Women's Emergency 24 Hr Helpline**
    - [More Info](https://www.facebook.com/MMujerRD)
@@ -1259,7 +1259,7 @@
 ---
 
 ## El Salvador
-![El Salvador Flag](./flags/El Salvador.png)
+![El Salvador Flag](./flags/El%20Salvador.png)
 
 1. **ISDEMU 24 hours Women's Help Line**
    - [More Info](https://126teorienta.gob.sv/)
@@ -1391,7 +1391,7 @@
 ---
 
 ## Saint Kitts and Nevis
-![Saint Kitts and Nevis Flag](./flags/Saint Kitts and Nevis.png)
+![Saint Kitts and Nevis Flag](./flags/Saint%20Kitts%20and%20Nevis.png)
 
 1. **Department of Gender Affairs Hotline**
    - [More Info](https://socialdevelopment.gov.kn/gender-affairs/)
@@ -1403,7 +1403,7 @@
 ---
 
 ## Saint Lucia
-![Saint Lucia Flag](./flags/Saint Lucia.png)
+![Saint Lucia Flag](./flags/Saint%20Lucia.png)
 
 1. **St Lucia Crisis Centre 24-hour Hotline**
    - [More Info](https://slucrisiscentre.wordpress.com/contact-us/)
@@ -1415,7 +1415,7 @@
 ---
 
 ## St. Vincent & the Grenadines
-![St. Vincent & the Grenadines Flag](./flags/St Vincent and the Grenadines.png)
+![St. Vincent & the Grenadines Flag](./flags/St.%20Vincent%20&%20the%20Grenadines%20%20.png)
 
 1. **Gender Affairs Division**
    - [More Info](https://www.prod.facebook.com/GenderAffairsDivisionSVG/)
@@ -1439,7 +1439,7 @@
 ---
 
 ## Trinidad and Tobago
-![Trinidad and Tobago Flag](./flags/Trinidad and Tobago.png)
+![Trinidad and Tobago Flag](./flags/Trinidad%20and%20Tobago.png)
 
 1. **National Domestic Violence Abuse Hotline**
    - [More Info](http://www.opm-gca.gov.tt/Contact/ContactInformation)
@@ -1451,7 +1451,7 @@
 ---
 
 ## Turks and Caicos Islands
-![Turks and Caicos Islands Flag](./flags/Turks and Caicos Islands.png)
+![Turks and Caicos Islands Flag](./flags/Turks%20and%20Caicos%20Islands.png)
 
 1. **Department of Gender Affairs**
    - [More Info](https://www.gov.tc/genderaffairs/)
@@ -1463,7 +1463,7 @@
 ---
 
 ## United States of America
-![United States of America Flag](./flags/United States of America.png)
+![United States of America Flag](./flags/United%20States%20of%20America.png)
 
 1. **National 24 Hrs Domestic Violence Hotline**
    - [More Info](https://www.thehotline.org/)
@@ -1574,7 +1574,7 @@
 ---
 
 ## Bosnia and Herzegovina
-![Bosnia and Herzegovina Flag](./flags/Bosnia and Herzegovina.png)
+![Bosnia and Herzegovina Flag](./flags/Bosnia%20and%20Herzegovina.png)
 
 1. **24 Hr SOS RED LINE**
    - [More Info](https://fld.ba/en/services/sos)
@@ -1622,7 +1622,7 @@
 ---
 
 ## Czech Republic
-![Czech Republic Flag](./flags/Czech Republic.png)
+![Czech Republic Flag](./flags/Czech%20Republic.png)
 
 1. **Victim Support Crisis Line**
    - [More Info](https://www.116006.cz/)
@@ -1655,7 +1655,7 @@
 ---
 
 ## Faroe Islands
-![Faroe Islands Flag](./flags/Faroe Islands.png)
+![Faroe Islands Flag](./flags/Faroe%20Islands.png)
 
 1. **Kvinnuhusio Women's hotline**
    - [More Info](https://kvinnuhusid.fo/)
@@ -1937,7 +1937,7 @@
 ---
 
 ## North Macedonia
-![North Macedonia Flag](./flags/North Macedonia.png)
+![North Macedonia Flag](./flags/North%20Macedonia.png)
 
 1. **Women's National Help Line**
    - [More Info](https://www.facebook.com/crisiscenterhope/)
@@ -2000,7 +2000,7 @@
 ---
 
 ## San Marino
-![San Marino Flag](./flags/San Marino.png)
+![San Marino Flag](./flags/San%20Marino.png)
 
 1. **National Helpline for Anti-Violence and Stalking**
    - [More Info](https://www.1522.eu/cose-1522/?lang=en)
@@ -2090,7 +2090,7 @@
 ---
 
 ## United Kingdom
-![United Kingdom Flag](./flags/United Kingdom.png)
+![United Kingdom Flag](./flags/United%20Kingdom.png)
 
 1. **All UK: National 24 Hour Domestic Violence Helpline**
    - [More Info](https://www.nationaldahelpline.org.uk/)
@@ -2129,7 +2129,7 @@
 ---
 
 ## Marshall Islands
-![Marshall Islands Flag](./flags/Marshall Islands.png)
+![Marshall Islands Flag](./flags/Marshall%20Islands.png)
 
 1. **Women United Together Marshall Islands**
    - [More Info](https://www.wutmi.com/)
@@ -2159,7 +2159,7 @@
 ---
 
 ## New Zealand
-![New Zealand Flag](./flags/New Zealand.png)
+![New Zealand Flag](./flags/New%20Zealand.png)
 
 1. **Women's Crisis Line**
    - [More Info](https://womensrefuge.org.nz/)
@@ -2180,7 +2180,7 @@
 ---
 
 ## Papua New Guinea
-![Papua New Guinea Flag](./flags/Papua New Guinea.png)
+![Papua New Guinea Flag](./flags/Papua%20New%20Guinea.png)
 
 1. **24-hour Lae Police Emergency**
    - [More Info](https://femilipng.org/resources/stopping-violence/other-help-available/)
@@ -2204,7 +2204,7 @@
 ---
 
 ## Solomon Islands
-![Solomon Islands Flag](./flags/Solomon Islands.png)
+![Solomon Islands Flag](./flags/Solomon%20Islands.png)
 
 1. **Family Support Centre, GBV Helpline, Honiara**
    - [More Info](https://solomons.gov.sb/ministry-of-women-youth-children-family-affairs/essential-services/get-emergency-contact-for-victims/)
