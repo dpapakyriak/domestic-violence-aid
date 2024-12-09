@@ -70,13 +70,6 @@ A heartfelt thank you to:
 
 ---
 
-## **Contact**
-
-If you have any questions, concerns, or suggestions, feel free to reach out:
-- 📧 Email: [contact@domesticviolenceaid.com](mailto:contact@domesticviolenceaid.com)
-- 🌐 Website: [domesticviolenceaid.com](https://domesticviolenceaid.com)
-
----
 
 ## **Join Us**
 
