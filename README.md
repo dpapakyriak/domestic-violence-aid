@@ -1,6 +1,6 @@
 # Domestic Violence Aid
 
-🌍 **Domestic Violence Aid** is an open-source initiative aimed at building the most comprehensive global database of helplines, support organizations, and resources for survivors of domestic violence. Our mission is to empower victims, raise awareness, and create a safe space for accessing critical information worldwide.
+🌍 **Domestic Violence Aid** is an open-source initiative aimed at building the most comprehensive global database of helplines, support organizations, and resources for survivors of domestic violence. Our mission is to empower victims, raise awareness, and create a safe space for accessing critical information worldwide. Learn more: [Website](https://www.domesticviolenceaid.com)
 
 
 ![Logo](./assets/logo.png)
